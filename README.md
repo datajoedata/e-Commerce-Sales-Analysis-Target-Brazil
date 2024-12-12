@@ -1,7 +1,7 @@
 # Análise de Vendas e Churn Target Brasil
 
 
-#### Este repositório foi utilizado para colocar habilidades em prática, contém notebooks e pipelines para análise e tratamento de dados de vendas e churn, com foco em processos de ETL (Extração, Transformação e Carregamento) para preparação de dados. Estes dados são do E-commerce da Target Brasil, tirados da plataforma Kaggle.
+#### Este repositório foi utilizado para praticar habilidades, contém notebooks e pipelines para análise e tratamento de dados de vendas e churn, com foco em processos de ETL (Extração, Transformação e Carregamento) para preparação de dados. Estes dados são do E-commerce da Target Brasil, retirados da plataforma Kaggle.
 Abaixo, estão descritas as principais pastas e arquivos incluídos:
 
 ## ETL/
